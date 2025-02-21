@@ -1,4 +1,4 @@
-# Hi there, I'm [Balogun Abdullahi Akorede] 👋
+# Hi there, I'm Balogun Abdullahi Akorede 👋
 
 Welcome to my GitHub profile! I'm a passionate **Statistics** student with a strong interest in data analysis, econometrics, and programming. I enjoy solving real-world problems by leveraging statistical techniques and working on projects that involve data-driven insights.
 
