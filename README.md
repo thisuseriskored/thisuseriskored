@@ -116,7 +116,7 @@ I enjoy solving real-world problems by leveraging statistical techniques and wor
 
 - 📧 Email: [smiley2002abdul@gmail.com](mailto:smiley2002abdul@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/balogunabdullahi](https://linkedin.com/in/balogunabdullahi)  
-- 💻 GitHub: [github.com/YourUsername](https://github.com/)  
+- 💻 GitHub: [github.com/thisuseriskored](https://github.com/)  
 - 🧑🏽‍💻 Kaggle: [kaggle.com/YourUsername](https://kaggle.com/)  
 
 Thanks for visiting my profile! 😊  
